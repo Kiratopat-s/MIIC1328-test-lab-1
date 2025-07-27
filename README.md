@@ -476,23 +476,6 @@ export JAVA_OPTS="-Xmx4g"
 - Verify date format is YYYY-MM-DD
 - Ensure boolean fields are "true"/"false"
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **E-commerce Analytics Team** - _Initial work and architecture_
-- **Quality Engineering Team** - _Rule implementations and testing_
-
-## 🙏 Acknowledgments
-
-- Kotlin community for excellent CSV and datetime libraries
-- E-commerce domain experts for business rule validation
-- QA team for comprehensive testing scenarios
-
----
-
 **Last Updated**: July 27, 2025  
 **Version**: 1.0.0  
 **Compatibility**: Kotlin 1.9.20+, JDK 11+
